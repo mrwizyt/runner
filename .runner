@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "nxt",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/QGVI976dRmvLif1vS8wzdf9W5uiLh58kh5Yul9Rs44kR6GTyXg",
+  "gitHubUrl": "https://github.com/mrwizyt/action-tmate",
+  "workFolder": "_work"
+}
